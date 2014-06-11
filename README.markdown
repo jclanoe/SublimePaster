@@ -19,8 +19,8 @@ If the pastebin implementation needs further config, such as user credentials ad
 
     "pastebin": {
         "mode"       : "dpaste",
-        "username"   : "Tim the Enchanter", 
-        "password"   : "antioch", 
+        "username"   : "Tim the Enchanter",
+        "password"   : "antioch",
         "user_token" : "e4023a6b-a9fc-40d8-bdfb-357ea7bb60cb"
     }
 
@@ -28,7 +28,7 @@ A good example for using Pastie is:
 
     "pastebin": {
         "mode": "pastie",
-        "username" : "Tim the Enchanter"
+        "username" : "Tim the Enchanter",
         "copy_to_clipboard": true,
         "prompt_on_post" : false,
         "private": true,
